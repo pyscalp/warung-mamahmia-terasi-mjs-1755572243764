@@ -1,0 +1,8 @@
+<!-- public/images/service-delivery.svg -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M18 8H22V16H18V8Z" fill="orange"/>
+<path d="M2 8H18V16H2V8Z" fill="red"/>
+<circle cx="6" cy="18" r="2" fill="yellow"/>
+<circle cx="18" cy="18" r="2" fill="yellow"/>
+<path d="M4 8L4 6C4 4.89543 4.89543 4 6 4H14C15.1046 4 16 4.89543 16 6V8" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
