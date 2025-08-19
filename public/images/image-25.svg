@@ -1,0 +1,8 @@
+<!-- public/images/food-icon-3.svg -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M20 10H4C2.89543 10 2 10.8954 2 12V20C2 21.1046 2.89543 22 4 22H20C21.1046 22 22 21.1046 22 20V12C22 10.8954 21.1046 10 20 10Z" fill="orange"/>
+<path d="M12 2L12 10" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 6L16 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="6" y="14" width="4" height="4" rx="1" fill="red"/>
+<rect x="14" y="14" width="4" height="4" rx="1" fill="yellow"/>
+</svg>
