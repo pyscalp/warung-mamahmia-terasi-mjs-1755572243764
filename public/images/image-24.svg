@@ -1,0 +1,6 @@
+<!-- public/images/food-icon-2.svg -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2Z" fill="red"/>
+<path d="M12 4C15.31 4 18 6.69 18 10C18 13.31 15.31 16 12 16C8.69 16 6 13.31 6 10C6 6.69 8.69 4 12 4Z" fill="orange"/>
+<path d="M12 16C10.34 16 9 17.34 9 19C9 20.66 10.34 22 12 22C13.66 22 15 20.66 15 19C15 17.34 13.66 16 12 16Z" fill="yellow"/>
+</svg>
