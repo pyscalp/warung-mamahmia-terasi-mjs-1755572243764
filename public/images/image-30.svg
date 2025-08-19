@@ -1,0 +1,9 @@
+<!-- public/images/service-dinein.svg -->
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 2C7.58172 2 4 5.58172 4 10V22H20V10C20 5.58172 16.4183 2 12 2Z" fill="orange"/>
+<path d="M12 10C9.79086 10 8 11.7909 8 14C8 16.2091 9.79086 18 12 18C14.2091 18 16 16.2091 16 14C16 11.7909 14.2091 10 12 10Z" fill="red"/>
+<circle cx="12" cy="14" r="2" fill="yellow"/>
+<path d="M12 2L12 4" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 6L8 8" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16 6L16 8" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
