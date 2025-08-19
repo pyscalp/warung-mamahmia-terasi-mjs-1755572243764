@@ -1,0 +1,12 @@
+<!-- public/images/about-illustration.svg -->
+<svg width="100%" height="100%" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="50" y="50" width="500" height="300" rx="20" fill="orange" opacity="0.8"/>
+<rect x="70" y="70" width="460" height="260" rx="10" fill="white"/>
+<circle cx="150" cy="150" r="40" fill="red"/>
+<circle cx="450" cy="150" r="40" fill="yellow"/>
+<path d="M150 190C150 210 170 230 200 230H400C430 230 450 210 450 190V250H150V190Z" fill="orange"/>
+<rect x="200" y="260" width="200" height="60" rx="10" fill="red"/>
+<text x="300" y="295" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle" dominant-baseline="middle">WARUNG</text>
+<text x="300" y="120" font-family="Arial, sans-serif" font-size="36" fill="red" text-anchor="middle" dominant-baseline="middle">🏠</text>
+<text x="300" y="180" font-family="Arial, sans-serif" font-size="20" fill="gray" text-anchor="middle" dominant-baseline="middle">Masakan Rumahan</text>
+</svg>
